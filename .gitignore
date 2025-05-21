@@ -142,35 +142,3 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/node
-
-# Arquivos de ambiente
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Dependências
-/node_modules
-/.pnp
-.pnp.js
-
-# Sistema operacional
-.DS_Store
-Thumbs.db
-ehthumbs.db
-desktop.ini
-
-# IDEs e editores
-/.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
